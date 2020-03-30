@@ -1,0 +1,68 @@
+{
+  "allfriends": [
+    {
+      "inr": 1000,
+      "paisa": 10,
+      "recipientFname": "abhi",
+      "recipientLname": "gowda",
+      "streetaddress": "peenya",
+      "city": "bangalore",
+      "state": "karnataka",
+      "country": "india",
+      "pincode": "560056",
+      "buyerFname": "swathi",
+      "buyerLname": "pai",
+      "phonenumber": 9900887766,
+      "email": "abhilash@gmail.com",
+      "id": 1
+    },
+    {
+      "inr": 100,
+      "paisa": 10,
+      "recipientFname": "harish",
+      "recipientLname": "kumar",
+      "streetaddress": "srs travels",
+      "city": "bangalore",
+      "state": "karnataka",
+      "country": "india",
+      "pincode": "560020",
+      "buyerFname": "mutha",
+      "buyerLname": "raju",
+      "phonenumber": 9900224145,
+      "email": "hari@gamail.com",
+      "id": 2
+    },
+    {
+      "inr": 400,
+      "paisa": 20,
+      "recipientFname": "govinda",
+      "recipientLname": "raju",
+      "streetaddress": "near market",
+      "city": "tumkur",
+      "state": "karnataka",
+      "country": "india",
+      "pincode": "520054",
+      "buyerFname": "dini",
+      "buyerLname": "v",
+      "phonenumber": 9342741819,
+      "email": "govi@gamail.com",
+      "id": 3
+    },
+    {
+      "inr": 50,
+      "paisa": 5,
+      "recipientFname": "mutha",
+      "recipientLname": "sonu",
+      "streetaddress": "459-1027, Murozumimatsubara",
+      "city": "Hikari-shi",
+      "state": "Yamaguchi",
+      "country": "japan",
+      "pincode": "510055",
+      "buyerFname": "ram",
+      "buyerLname": "r",
+      "phonenumber": 9988665543,
+      "email": "mutha@gmail.com",
+      "id": 4
+    }
+  ]
+}
